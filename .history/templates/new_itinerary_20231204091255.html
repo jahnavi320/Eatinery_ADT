@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Itinerary</title>
+</head>
+<body>
+    <h1>Create New Itinerary</h1>
+    <form method="post" action="{{ url_for('new_itinerary') }}">
+        <label for="location">Location Name:</label>
+        <input type="text" id="location" name="location" required>
+        <br>
+        <input type="submit" value="Create Itinerary">
+    </form>
+    <h2>Places Around the Location:</h2>
+    <ul>
+        {% for place in places_around_location %}
+            <li>{{ place.nearby_location }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

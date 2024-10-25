@@ -1,0 +1,992 @@
+﻿zip,primary_city,county
+46001,Alexandria,Madison County
+46011,Anderson,Madison County
+46012,Anderson,Madison County
+46013,Anderson,Madison County
+46014,Anderson,Madison County
+46015,Anderson,Madison County
+46016,Anderson,Madison County
+46017,Anderson,Madison County
+46018,Anderson,Madison County
+46030,Arcadia,Hamilton County
+46031,Atlanta,Hamilton County
+46032,Carmel,Hamilton County
+46033,Carmel,Hamilton County
+46034,Cicero,Hamilton County
+46035,Colfax,Clinton County
+46036,Elwood,Madison County
+46037,Fishers,Hamilton County
+46038,Fishers,Hamilton County
+46039,Forest,Clinton County
+46040,Fortville,Hamilton County
+46041,Frankfort,Clinton County
+46044,Frankton,Madison County
+46045,Goldsmith,Tipton County
+46047,Hobbs,Tipton County
+46048,Ingalls,Madison County
+46049,Kempton,Tipton County
+46050,Kirklin,Clinton County
+46051,Lapel,Madison County
+46052,Lebanon,Boone County
+46055,Mccordsville,Hancock County
+46056,Markleville,Madison County
+46057,Michigantown,Clinton County
+46058,Mulberry,Clinton County
+46060,Noblesville,Hamilton County
+46061,Noblesville,Hamilton County
+46062,Noblesville,Hamilton County
+46063,Orestes,Madison County
+46064,Pendleton,Madison County
+46065,Rossville,Clinton County
+46067,Sedalia,Clinton County
+46068,Sharpsville,Tipton County
+46069,Sheridan,Hamilton County
+46070,Summitville,Madison County
+46071,Thorntown,Boone County
+46072,Tipton,Tipton County
+46074,Westfield,Hamilton County
+46075,Whitestown,Boone County
+46076,Windfall,Tipton County
+46077,Zionsville,Boone County
+46082,Carmel,Hamilton County
+46085,Fishers,Hamilton County
+46102,Advance,Boone County
+46103,Amo,Hendricks County
+46104,Arlington,Rush County
+46105,Bainbridge,Putnam County
+46106,Bargersville,Johnson County
+46107,Beech Grove,Marion County
+46110,Boggstown,Shelby County
+46111,Brooklyn,Morgan County
+46112,Brownsburg,Hendricks County
+46113,Camby,Marion County
+46115,Carthage,Rush County
+46117,Charlottesville,Hancock County
+46118,Clayton,Hendricks County
+46120,Cloverdale,Putnam County
+46121,Coatesville,Putnam County
+46122,Danville,Hendricks County
+46123,Avon,Hendricks County
+46124,Edinburgh,Johnson County
+46125,Eminence,Morgan County
+46126,Fairland,Shelby County
+46127,Falmouth,Rush County
+46128,Fillmore,Putnam County
+46129,Finly,Hancock County
+46130,Fountaintown,Shelby County
+46131,Franklin,Johnson County
+46133,Glenwood,Fayette County
+46135,Greencastle,Putnam County
+46140,Greenfield,Hancock County
+46142,Greenwood,Johnson County
+46143,Greenwood,Johnson County
+46144,Gwynneville,Shelby County
+46146,Homer,Rush County
+46147,Jamestown,Boone County
+46148,Knightstown,Henry County
+46149,Lizton,Hendricks County
+46150,Manilla,Rush County
+46151,Martinsville,Morgan County
+46154,Maxwell,Hancock County
+46155,Mays,Rush County
+46156,Milroy,Rush County
+46157,Monrovia,Morgan County
+46158,Mooresville,Morgan County
+46160,Morgantown,Brown County
+46161,Morristown,Shelby County
+46162,Needham,Johnson County
+46163,New Palestine,Hancock County
+46164,Nineveh,Brown County
+46165,North Salem,Hendricks County
+46166,Paragon,Morgan County
+46167,Pittsboro,Hendricks County
+46168,Plainfield,Hendricks County
+46170,Putnamville,Putnam County
+46171,Reelsville,Putnam County
+46172,Roachdale,Putnam County
+46173,Rushville,Rush County
+46175,Russellville,Putnam County
+46176,Shelbyville,Shelby County
+46180,Stilesville,Hendricks County
+46181,Trafalgar,Johnson County
+46182,Waldron,Shelby County
+46183,West Newton,Marion County
+46184,Whiteland,Johnson County
+46186,Wilkinson,Hancock County
+46197,Plainfield,
+46201,Indianapolis,Marion County
+46202,Indianapolis,Marion County
+46203,Indianapolis,Marion County
+46204,Indianapolis,Marion County
+46205,Indianapolis,Marion County
+46206,Indianapolis,Marion County
+46207,Indianapolis,Marion County
+46208,Indianapolis,Marion County
+46209,Indianapolis,Marion County
+46210,Indianapolis,
+46211,Indianapolis,Marion County
+46213,Indianapolis,
+46214,Indianapolis,Marion County
+46216,Indianapolis,Marion County
+46217,Indianapolis,Marion County
+46218,Indianapolis,Marion County
+46219,Indianapolis,Marion County
+46220,Indianapolis,Marion County
+46221,Indianapolis,Marion County
+46222,Indianapolis,Marion County
+46223,Indianapolis,Marion County
+46224,Indianapolis,Marion County
+46225,Indianapolis,Marion County
+46226,Indianapolis,Marion County
+46227,Indianapolis,Marion County
+46228,Indianapolis,Marion County
+46229,Indianapolis,Marion County
+46230,Indianapolis,Marion County
+46231,Indianapolis,Marion County
+46234,Indianapolis,Marion County
+46235,Indianapolis,Marion County
+46236,Indianapolis,Marion County
+46237,Indianapolis,Marion County
+46239,Indianapolis,Marion County
+46240,Indianapolis,Marion County
+46241,Indianapolis,Marion County
+46242,Indianapolis,Marion County
+46244,Indianapolis,Marion County
+46247,Indianapolis,Marion County
+46249,Indianapolis,Marion County
+46250,Indianapolis,Marion County
+46251,Indianapolis,Marion County
+46253,Indianapolis,Marion County
+46254,Indianapolis,Marion County
+46255,Indianapolis,Marion County
+46256,Indianapolis,Marion County
+46259,Indianapolis,Marion County
+46260,Indianapolis,Marion County
+46262,Indianapolis,Marion County
+46266,Indianapolis,Marion County
+46268,Indianapolis,Marion County
+46274,Indianapolis,Marion County
+46275,Indianapolis,Marion County
+46277,Indianapolis,Marion County
+46278,Indianapolis,Marion County
+46280,Indianapolis,Hamilton County
+46282,Indianapolis,Marion County
+46283,Indianapolis,Marion County
+46285,Indianapolis,Marion County
+46288,Indianapolis,
+46290,Indianapolis,Hamilton County
+46291,Indianapolis,Marion County
+46295,Indianapolis,Marion County
+46296,Indianapolis,Marion County
+46298,Indianapolis,Marion County
+46301,Beverly Shores,Porter County
+46302,Boone Grove,Porter County
+46303,Cedar Lake,Lake County
+46304,Chesterton,Porter County
+46307,Crown Point,Lake County
+46308,Crown Point,Lake County
+46310,Demotte,Jasper County
+46311,Dyer,Lake County
+46312,East Chicago,Lake County
+46319,Griffith,Lake County
+46320,Hammond,Lake County
+46321,Munster,Lake County
+46322,Highland,Lake County
+46323,Hammond,Lake County
+46324,Hammond,Lake County
+46325,Hammond,Lake County
+46327,Hammond,Lake County
+46340,Hanna,LaPorte County
+46341,Hebron,Porter County
+46342,Hobart,Lake County
+46345,Kingsbury,LaPorte County
+46346,Kingsford Heights,LaPorte County
+46347,Kouts,Porter County
+46348,La Crosse,LaPorte County
+46349,Lake Village,Newton County
+46350,La Porte,LaPorte County
+46352,La Porte,La Porte County
+46355,Leroy,Lake County
+46356,Lowell,Lake County
+46360,Michigan City,LaPorte County
+46361,Michigan City,La Porte County
+46365,Mill Creek,LaPorte County
+46366,North Judson,Starke County
+46368,Portage,Porter County
+46371,Rolling Prairie,LaPorte County
+46372,Roselawn,Newton County
+46373,Saint John,Lake County
+46374,San Pierre,Starke County
+46375,Schererville,Lake County
+46376,Schneider,Lake County
+46377,Shelby,Lake County
+46379,Sumava Resorts,Newton County
+46380,Tefft,Jasper County
+46381,Thayer,Newton County
+46382,Union Mills,LaPorte County
+46383,Valparaiso,Porter County
+46384,Valparaiso,Porter County
+46385,Valparaiso,Porter County
+46390,Wanatah,LaPorte County
+46391,Westville,LaPorte County
+46392,Wheatfield,Jasper County
+46393,Wheeler,Porter County
+46394,Whiting,Lake County
+46401,Gary,Lake County
+46402,Gary,Lake County
+46403,Gary,Lake County
+46404,Gary,Lake County
+46405,Lake Station,Lake County
+46406,Gary,Lake County
+46407,Gary,Lake County
+46408,Gary,Lake County
+46409,Gary,Lake County
+46410,Merrillville,Lake County
+46411,Merrillville,Lake County
+46501,Argos,Marshall County
+46502,Atwood,Kosciusko County
+46504,Bourbon,Marshall County
+46506,Bremen,Marshall County
+46507,Bristol,Elkhart County
+46508,Burket,Kosciusko County
+46510,Claypool,Kosciusko County
+46511,Culver,Marshall County
+46513,Donaldson,Marshall County
+46514,Elkhart,Elkhart County
+46515,Elkhart,Elkhart County
+46516,Elkhart,Elkhart County
+46517,Elkhart,Elkhart County
+46524,Etna Green,Kosciusko County
+46526,Goshen,Elkhart County
+46527,Goshen,Elkhart County
+46528,Goshen,Elkhart County
+46530,Granger,St. Joseph County
+46531,Grovertown,Starke County
+46532,Hamlet,Starke County
+46534,Knox,Starke County
+46536,Lakeville,St. Joseph County
+46537,Lapaz,Marshall County
+46538,Leesburg,Kosciusko County
+46539,Mentone,Kosciusko County
+46540,Middlebury,Elkhart County
+46542,Milford,Kosciusko County
+46543,Millersburg,Elkhart County
+46544,Mishawaka,St. Joseph County
+46545,Mishawaka,St. Joseph County
+46546,Mishawaka,St. Joseph County
+46550,Nappanee,Elkhart County
+46552,New Carlisle,St. Joseph County
+46553,New Paris,Elkhart County
+46554,North Liberty,St. Joseph County
+46555,North Webster,Kosciusko County
+46556,Notre Dame,St. Joseph County
+46561,Osceola,St. Joseph County
+46562,Pierceton,Kosciusko County
+46563,Plymouth,Marshall County
+46565,Shipshewana,LaGrange County
+46567,Syracuse,Kosciusko County
+46570,Tippecanoe,Marshall County
+46571,Topeka,LaGrange County
+46572,Tyner,Marshall County
+46573,Wakarusa,Elkhart County
+46574,Walkerton,St. Joseph County
+46580,Warsaw,Kosciusko County
+46581,Warsaw,Kosciusko County
+46582,Warsaw,Kosciusko County
+46590,Winona Lake,Kosciusko County
+46595,Wyatt,St. Joseph County
+46601,South Bend,St. Joseph County
+46604,South Bend,St. Joseph County
+46613,South Bend,St. Joseph County
+46614,South Bend,St. Joseph County
+46615,South Bend,St. Joseph County
+46616,South Bend,St. Joseph County
+46617,South Bend,St. Joseph County
+46619,South Bend,St. Joseph County
+46620,South Bend,St. Joseph County
+46624,South Bend,St. Joseph County
+46626,South Bend,St. Joseph County
+46628,South Bend,St. Joseph County
+46634,South Bend,St. Joseph County
+46635,South Bend,St. Joseph County
+46637,South Bend,St. Joseph County
+46660,South Bend,St. Joseph County
+46680,South Bend,St. Joseph County
+46699,South Bend,St. Joseph County
+46701,Albion,Noble County
+46702,Andrews,Huntington County
+46703,Angola,Steuben County
+46704,Arcola,Allen County
+46705,Ashley,DeKalb County
+46706,Auburn,DeKalb County
+46710,Avilla,Noble County
+46711,Berne,Adams County
+46713,Bippus,Huntington County
+46714,Bluffton,Wells County
+46721,Butler,DeKalb County
+46723,Churubusco,Whitley County
+46725,Columbia City,Whitley County
+46730,Corunna,DeKalb County
+46731,Craigville,Wells County
+46732,Cromwell,Noble County
+46733,Decatur,Adams County
+46737,Fremont,Steuben County
+46738,Garrett,DeKalb County
+46740,Geneva,Adams County
+46741,Grabill,Allen County
+46742,Hamilton,Steuben County
+46743,Harlan,Allen County
+46745,Hoagland,Allen County
+46746,Howe,LaGrange County
+46747,Hudson,Steuben County
+46748,Huntertown,Allen County
+46750,Huntington,Huntington County
+46755,Kendallville,Noble County
+46759,Keystone,Wells County
+46760,Kimmell,Noble County
+46761,Lagrange,LaGrange County
+46763,Laotto,Noble County
+46764,Larwill,Whitley County
+46765,Leo,Allen County
+46766,Liberty Center,Wells County
+46767,Ligonier,Noble County
+46769,Linn Grove,Adams County
+46770,Markle,Wells County
+46771,Mongo,LaGrange County
+46772,Monroe,Adams County
+46773,Monroeville,Allen County
+46774,New Haven,Allen County
+46776,Orland,Steuben County
+46777,Ossian,Wells County
+46778,Petroleum,Wells County
+46779,Pleasant Lake,Steuben County
+46780,Pleasant Mills,Adams County
+46781,Poneto,Wells County
+46782,Preble,Adams County
+46783,Roanoke,Huntington County
+46784,Rome City,Noble County
+46785,Saint Joe,DeKalb County
+46786,South Milford,LaGrange County
+46787,South Whitley,Whitley County
+46788,Spencerville,Allen County
+46789,Stroh,Lagrange County
+46791,Uniondale,Wells County
+46792,Warren,Huntington County
+46793,Waterloo,DeKalb County
+46794,Wawaka,Noble County
+46795,Wolcottville,LaGrange County
+46796,Wolflake,Noble County
+46797,Woodburn,Allen County
+46798,Yoder,Allen County
+46799,Zanesville,Wells County
+46801,Fort Wayne,Allen County
+46802,Fort Wayne,Allen County
+46803,Fort Wayne,Allen County
+46804,Fort Wayne,Allen County
+46805,Fort Wayne,Allen County
+46806,Fort Wayne,Allen County
+46807,Fort Wayne,Allen County
+46808,Fort Wayne,Allen County
+46809,Fort Wayne,Allen County
+46814,Fort Wayne,Allen County
+46815,Fort Wayne,Allen County
+46816,Fort Wayne,Allen County
+46818,Fort Wayne,Allen County
+46819,Fort Wayne,Allen County
+46825,Fort Wayne,Allen County
+46835,Fort Wayne,Allen County
+46845,Fort Wayne,Allen County
+46850,Fort Wayne,Allen County
+46851,Fort Wayne,Allen County
+46852,Fort Wayne,Allen County
+46853,Fort Wayne,Allen County
+46854,Fort Wayne,Allen County
+46855,Fort Wayne,Allen County
+46856,Fort Wayne,Allen County
+46857,Fort Wayne,Allen County
+46858,Fort Wayne,Allen County
+46859,Fort Wayne,Allen County
+46860,Fort Wayne,Allen County
+46861,Fort Wayne,Allen County
+46862,Fort Wayne,Allen County
+46863,Fort Wayne,Allen County
+46864,Fort Wayne,Allen County
+46865,Fort Wayne,Allen County
+46866,Fort Wayne,Allen County
+46867,Fort Wayne,Allen County
+46868,Fort Wayne,Allen County
+46869,Fort Wayne,Allen County
+46885,Fort Wayne,Allen County
+46895,Fort Wayne,Allen County
+46896,Fort Wayne,Allen County
+46897,Fort Wayne,Allen County
+46898,Fort Wayne,Allen County
+46899,Fort Wayne,Allen County
+46901,Kokomo,Howard County
+46902,Kokomo,Howard County
+46903,Kokomo,Howard County
+46904,Kokomo,Howard County
+46910,Akron,Fulton County
+46911,Amboy,Miami County
+46912,Athens,Fulton County
+46913,Bringhurst,Carroll County
+46914,Bunker Hill,Miami County
+46915,Burlington,Carroll County
+46916,Burrows,Carroll County
+46917,Camden,Carroll County
+46919,Converse,Miami County
+46920,Cutler,Carroll County
+46921,Deedsville,Miami County
+46922,Delong,Fulton County
+46923,Delphi,Carroll County
+46926,Denver,Miami County
+46928,Fairmount,Grant County
+46929,Flora,Carroll County
+46930,Fowlerton,Grant County
+46931,Fulton,Fulton County
+46932,Galveston,Cass County
+46933,Gas City,Grant County
+46935,Grass Creek,Fulton County
+46936,Greentown,Howard County
+46937,Hemlock,Howard County
+46938,Jonesboro,Grant County
+46939,Kewanna,Fulton County
+46940,La Fontaine,Wabash County
+46941,Lagro,Wabash County
+46942,Lake Cicott,Cass County
+46943,Laketon,Wabash County
+46945,Leiters Ford,Fulton County
+46946,Liberty Mills,Wabash County
+46947,Logansport,Cass County
+46950,Lucerne,Cass County
+46951,Macy,Miami County
+46952,Marion,Grant County
+46953,Marion,Grant County
+46957,Matthews,Grant County
+46958,Mexico,Miami County
+46959,Miami,Miami County
+46960,Monterey,Pulaski County
+46961,New Waverly,Cass County
+46962,North Manchester,Wabash County
+46965,Oakford,Howard County
+46967,Onward,Cass County
+46968,Ora,Starke County
+46970,Peru,Miami County
+46971,Grissom Arb,Miami County
+46974,Roann,Wabash County
+46975,Rochester,Fulton County
+46977,Rockfield,Carroll County
+46978,Royal Center,Cass County
+46979,Russiaville,Howard County
+46980,Servia,Wabash County
+46982,Silver Lake,Kosciusko County
+46984,Somerset,Wabash County
+46985,Star City,Pulaski County
+46986,Swayzee,Grant County
+46987,Sweetser,Grant County
+46988,Twelve Mile,Cass County
+46989,Upland,Grant County
+46990,Urbana,Wabash County
+46991,Van Buren,Grant County
+46992,Wabash,Wabash County
+46994,Walton,Cass County
+46995,West Middleton,Howard County
+46996,Winamac,Pulaski County
+46998,Young America,Cass County
+47001,Aurora,Dearborn County
+47003,West College Corner,Union County
+47006,Batesville,Ripley County
+47010,Bath,Franklin County
+47011,Bennington,Switzerland County
+47012,Brookville,Franklin County
+47016,Cedar Grove,Franklin County
+47017,Cross Plains,Ripley County
+47018,Dillsboro,Dearborn County
+47019,East Enterprise,Switzerland County
+47020,Florence,Switzerland County
+47021,Friendship,Ripley County
+47022,Guilford,Dearborn County
+47023,Holton,Ripley County
+47024,Laurel,Franklin County
+47025,Lawrenceburg,Dearborn County
+47030,Metamora,Franklin County
+47031,Milan,Ripley County
+47032,Moores Hill,Dearborn County
+47033,Morris,Ripley County
+47034,Napoleon,Ripley County
+47035,New Trenton,Franklin County
+47036,Oldenburg,Franklin County
+47037,Osgood,Ripley County
+47038,Patriot,Switzerland County
+47039,Pierceville,Ripley County
+47040,Rising Sun,Ohio County
+47041,Sunman,Ripley County
+47042,Versailles,Ripley County
+47043,Vevay,Switzerland County
+47060,West Harrison,Dearborn County
+47102,Austin,Scott County
+47104,Bethlehem,Clark County
+47106,Borden,Clark County
+47107,Bradford,Harrison County
+47108,Campbellsburg,Washington County
+47110,Central,Harrison County
+47111,Charlestown,Clark County
+47112,Corydon,Harrison County
+47114,Crandall,Harrison County
+47115,Depauw,Harrison County
+47116,Eckerty,Crawford County
+47117,Elizabeth,Harrison County
+47118,English,Crawford County
+47119,Floyds Knobs,Floyd County
+47120,Fredericksburg,Washington County
+47122,Georgetown,Floyd County
+47123,Grantsburg,Crawford County
+47124,Greenville,Floyd County
+47125,Hardinsburg,Washington County
+47126,Henryville,Clark County
+47129,Clarksville,Clark County
+47130,Jeffersonville,Clark County
+47131,Jeffersonville,Clark County
+47132,Jeffersonville,Clark County
+47133,Jeffersonville,Clark County
+47134,Jeffersonville,Clark County
+47135,Laconia,Harrison County
+47136,Lanesville,Floyd County
+47137,Leavenworth,Crawford County
+47138,Lexington,Scott County
+47139,Little York,Washington County
+47140,Marengo,Crawford County
+47141,Marysville,Clark County
+47142,Mauckport,Harrison County
+47143,Memphis,Clark County
+47144,Jeffersonville,Clark County
+47145,Milltown,Crawford County
+47146,Mount Saint Francis,Floyd County
+47147,Nabb,Clark County
+47150,New Albany,Floyd County
+47151,New Albany,Floyd County
+47160,New Middletown,Harrison County
+47161,New Salisbury,Harrison County
+47162,New Washington,Clark County
+47163,Otisco,Clark County
+47164,Palmyra,Harrison County
+47165,Pekin,Washington County
+47166,Ramsey,Harrison County
+47167,Salem,Washington County
+47170,Scottsburg,Scott County
+47172,Sellersburg,Clark County
+47174,Sulphur,Crawford County
+47175,Taswell,Crawford County
+47177,Underwood,Scott County
+47190,Jeffersonville,Clark County
+47199,Jeffersonville,Clark County
+47201,Columbus,Bartholomew County
+47202,Columbus,Bartholomew County
+47203,Columbus,Bartholomew County
+47220,Brownstown,Jackson County
+47223,Butlerville,Jennings County
+47224,Canaan,Switzerland County
+47225,Clarksburg,Decatur County
+47226,Clifford,Bartholomew County
+47227,Commiskey,Jennings County
+47228,Cortland,Jackson County
+47229,Crothersville,Jackson County
+47230,Deputy,Jefferson County
+47231,Dupont,Jefferson County
+47232,Elizabethtown,Bartholomew County
+47234,Flat Rock,Shelby County
+47235,Freetown,Jackson County
+47236,Grammer,Bartholomew County
+47240,Greensburg,Decatur County
+47243,Hanover,Jefferson County
+47244,Hartsville,Bartholomew County
+47245,Hayden,Jennings County
+47246,Hope,Bartholomew County
+47247,Jonesville,Bartholomew County
+47249,Kurtz,Jackson County
+47250,Madison,Jefferson County
+47260,Medora,Jackson County
+47261,Millhousen,Ripley County
+47263,New Point,Decatur County
+47264,Norman,Jackson County
+47265,North Vernon,Jennings County
+47270,Paris Crossing,Jennings County
+47272,Saint Paul,Decatur County
+47273,Scipio,Jennings County
+47274,Seymour,Jackson County
+47280,Taylorsville,Bartholomew County
+47281,Vallonia,Jackson County
+47282,Vernon,Jennings County
+47283,Westport,Decatur County
+47302,Muncie,Delaware County
+47303,Muncie,Delaware County
+47304,Muncie,Delaware County
+47305,Muncie,Delaware County
+47306,Muncie,Delaware County
+47307,Muncie,Delaware County
+47308,Muncie,Delaware County
+47320,Albany,Delaware County
+47322,Bentonville,Fayette County
+47324,Boston,Wayne County
+47325,Brownsville,Union County
+47326,Bryant,Jay County
+47327,Cambridge City,Wayne County
+47330,Centerville,Wayne County
+47331,Connersville,Fayette County
+47334,Daleville,Delaware County
+47335,Dublin,Wayne County
+47336,Dunkirk,Jay County
+47337,Dunreith,Henry County
+47338,Eaton,Delaware County
+47339,Economy,Wayne County
+47340,Farmland,Randolph County
+47341,Fountain City,Wayne County
+47342,Gaston,Delaware County
+47344,Greensboro,Henry County
+47345,Greens Fork,Wayne County
+47346,Hagerstown,Wayne County
+47348,Hartford City,Blackford County
+47351,Kennard,Henry County
+47352,Lewisville,Henry County
+47353,Liberty,Union County
+47354,Losantville,Randolph County
+47355,Lynn,Randolph County
+47356,Middletown,Henry County
+47357,Milton,Wayne County
+47358,Modoc,Randolph County
+47359,Montpelier,Blackford County
+47360,Mooreland,Henry County
+47361,Mount Summit,Henry County
+47362,New Castle,Henry County
+47366,New Lisbon,Henry County
+47367,Oakville,Delaware County
+47368,Parker City,Randolph County
+47369,Pennville,Jay County
+47370,Pershing,Wayne County
+47371,Portland,Jay County
+47373,Redkey,Jay County
+47374,Richmond,Wayne County
+47375,Richmond,Wayne County
+47380,Ridgeville,Randolph County
+47381,Salamonia,Jay County
+47382,Saratoga,Randolph County
+47383,Selma,Delaware County
+47384,Shirley,Henry County
+47385,Spiceland,Henry County
+47386,Springport,Henry County
+47387,Straughn,Henry County
+47388,Sulphur Springs,Henry County
+47390,Union City,Randolph County
+47392,Webster,Wayne County
+47393,Williamsburg,Wayne County
+47394,Winchester,Randolph County
+47396,Yorktown,Delaware County
+47401,Bloomington,Monroe County
+47402,Bloomington,Monroe County
+47403,Bloomington,Monroe County
+47404,Bloomington,Monroe County
+47405,Bloomington,Monroe County
+47406,Bloomington,Monroe County
+47407,Bloomington,Monroe County
+47408,Bloomington,Monroe County
+47420,Avoca,Lawrence County
+47421,Bedford,Lawrence County
+47424,Bloomfield,Greene County
+47426,Clear Creek,Monroe County
+47427,Coal City,Owen County
+47429,Ellettsville,Monroe County
+47430,Fort Ritner,Lawrence County
+47431,Freedom,Owen County
+47432,French Lick,Orange County
+47433,Gosport,Owen County
+47434,Harrodsburg,Monroe County
+47435,Helmsburg,Brown County
+47436,Heltonville,Lawrence County
+47437,Huron,Lawrence County
+47438,Jasonville,Greene County
+47439,Koleen,Greene County
+47441,Linton,Greene County
+47443,Lyons,Greene County
+47445,Midland,Greene County
+47446,Mitchell,Lawrence County
+47448,Nashville,Brown County
+47449,Newberry,Greene County
+47451,Oolitic,Lawrence County
+47452,Orleans,Orange County
+47453,Owensburg,Greene County
+47454,Paoli,Orange County
+47455,Patricksburg,Owen County
+47456,Quincy,Owen County
+47457,Scotland,Greene County
+47458,Smithville,Monroe County
+47459,Solsberry,Greene County
+47460,Spencer,Owen County
+47462,Springville,Lawrence County
+47463,Stanford,Monroe County
+47464,Stinesville,Monroe County
+47465,Switz City,Greene County
+47467,Tunnelton,Lawrence County
+47468,Unionville,Monroe County
+47469,West Baden Springs,Orange County
+47470,Williams,Lawrence County
+47471,Worthington,Greene County
+47490,Bloomington,Monroe County
+47501,Washington,Daviess County
+47512,Bicknell,Knox County
+47513,Birdseye,Dubois County
+47514,Branchville,Perry County
+47515,Bristow,Perry County
+47516,Bruceville,Knox County
+47519,Cannelburg,Daviess County
+47520,Cannelton,Perry County
+47521,Celestine,Dubois County
+47522,Crane,Martin County
+47523,Dale,Spencer County
+47524,Decker,Knox County
+47525,Derby,Perry County
+47527,Dubois,Dubois County
+47528,Edwardsport,Knox County
+47529,Elnora,Daviess County
+47531,Evanston,Spencer County
+47532,Ferdinand,Dubois County
+47535,Freelandville,Knox County
+47536,Fulda,Spencer County
+47537,Gentryville,Spencer County
+47541,Holland,Dubois County
+47542,Huntingburg,Dubois County
+47545,Ireland,Dubois County
+47546,Jasper,Dubois County
+47547,Jasper,Dubois County
+47549,Jasper,Dubois County
+47550,Lamar,Spencer County
+47551,Leopold,Perry County
+47552,Lincoln City,Spencer County
+47553,Loogootee,Martin County
+47556,Mariah Hill,Spencer County
+47557,Monroe City,Knox County
+47558,Montgomery,Daviess County
+47561,Oaktown,Knox County
+47562,Odon,Daviess County
+47564,Otwell,Pike County
+47567,Petersburg,Pike County
+47568,Plainville,Daviess County
+47573,Ragsdale,Knox County
+47574,Rome,Perry County
+47575,Saint Anthony,Dubois County
+47576,Saint Croix,Perry County
+47577,Saint Meinrad,Spencer County
+47578,Sandborn,Knox County
+47579,Santa Claus,Spencer County
+47580,Schnellville,Dubois County
+47581,Shoals,Martin County
+47584,Spurgeon,Pike County
+47585,Stendal,Pike County
+47586,Tell City,Perry County
+47588,Troy,Perry County
+47590,Velpen,Pike County
+47591,Vincennes,Knox County
+47596,Westphalia,Knox County
+47597,Wheatland,Knox County
+47598,Winslow,Pike County
+47601,Boonville,Warrick County
+47610,Chandler,Warrick County
+47611,Chrisney,Spencer County
+47612,Cynthiana,Posey County
+47613,Elberfeld,Warrick County
+47614,Folsomville,Warrick County
+47615,Grandview,Spencer County
+47616,Griffin,Posey County
+47617,Hatfield,Spencer County
+47618,Inglefield,Vanderburgh County
+47619,Lynnville,Warrick County
+47620,Mount Vernon,Posey County
+47629,Newburgh,Warrick County
+47630,Newburgh,Warrick County
+47631,New Harmony,Posey County
+47633,Poseyville,Posey County
+47634,Richland,Spencer County
+47635,Rockport,Spencer County
+47637,Tennyson,Warrick County
+47638,Wadesville,Posey County
+47639,Haubstadt,Gibson County
+47640,Hazleton,Gibson County
+47647,Buckskin,Gibson County
+47648,Fort Branch,Gibson County
+47649,Francisco,Gibson County
+47654,Mackey,Gibson County
+47660,Oakland City,Gibson County
+47665,Owensville,Gibson County
+47666,Patoka,Gibson County
+47670,Princeton,Gibson County
+47683,Somerville,Gibson County
+47701,Evansville,Vanderburgh County
+47702,Evansville,Vanderburgh County
+47703,Evansville,Vanderburgh County
+47704,Evansville,Vanderburgh County
+47705,Evansville,Vanderburgh County
+47706,Evansville,Vanderburgh County
+47708,Evansville,Vanderburgh County
+47710,Evansville,Vanderburgh County
+47711,Evansville,Vanderburgh County
+47712,Evansville,Vanderburgh County
+47713,Evansville,Vanderburgh County
+47714,Evansville,Vanderburgh County
+47715,Evansville,Vanderburgh County
+47716,Evansville,Vanderburgh County
+47719,Evansville,Vanderburgh County
+47720,Evansville,Vanderburgh County
+47721,Evansville,Vanderburgh County
+47722,Evansville,Vanderburgh County
+47724,Evansville,Vanderburgh County
+47725,Evansville,Vanderburgh County
+47727,Evansville,Vanderburgh County
+47728,Evansville,Vanderburgh County
+47730,Evansville,Vanderburgh County
+47731,Evansville,Vanderburgh County
+47732,Evansville,Vanderburgh County
+47733,Evansville,Vanderburgh County
+47734,Evansville,Vanderburgh County
+47735,Evansville,Vanderburgh County
+47736,Evansville,Vanderburgh County
+47737,Evansville,Vanderburgh County
+47739,Evansville,Vanderburgh County
+47740,Evansville,Vanderburgh County
+47741,Evansville,Vanderburgh County
+47744,Evansville,Vanderburgh County
+47747,Evansville,Vanderburgh County
+47750,Evansville,Vanderburgh County
+47801,Terre Haute,Vigo County
+47802,Terre Haute,Vigo County
+47803,Terre Haute,Vigo County
+47804,Terre Haute,Vigo County
+47805,Terre Haute,Vigo County
+47807,Terre Haute,Vigo County
+47808,Terre Haute,Vigo County
+47809,Terre Haute,Vigo County
+47811,Terre Haute,Vigo County
+47812,Terre Haute,Vigo County
+47830,Bellmore,Parke County
+47831,Blanford,Vermillion County
+47832,Bloomingdale,Parke County
+47833,Bowling Green,Owen County
+47834,Brazil,Clay County
+47836,Bridgeton,Parke County
+47837,Carbon,Clay County
+47838,Carlisle,Sullivan County
+47840,Centerpoint,Clay County
+47841,Clay City,Clay County
+47842,Clinton,Vermillion County
+47845,Coalmont,Clay County
+47846,Cory,Clay County
+47847,Dana,Vermillion County
+47848,Dugger,Sullivan County
+47849,Fairbanks,Sullivan County
+47850,Farmersburg,Sullivan County
+47851,Fontanet,Vigo County
+47852,Graysville,Sullivan County
+47853,Harmony,Clay County
+47854,Hillsdale,Vermillion County
+47855,Hymera,Sullivan County
+47856,Judson,Parke County
+47857,Knightsville,Clay County
+47858,Lewis,Clay County
+47859,Marshall,Parke County
+47860,Mecca,Parke County
+47861,Merom,Sullivan County
+47862,Montezuma,Parke County
+47863,New Goshen,Vigo County
+47864,Sullivan,Sullivan County
+47865,Paxton,Sullivan County
+47866,Pimento,Vigo County
+47868,Poland,Owen County
+47869,Prairie Creek,Vigo County
+47870,Prairieton,Vigo County
+47871,Riley,Vigo County
+47872,Rockville,Parke County
+47874,Rosedale,Parke County
+47875,Saint Bernice,Vermillion County
+47876,Saint Mary Of The Woods,Vigo County
+47878,Seelyville,Vigo County
+47879,Shelburn,Sullivan County
+47880,Shepardsville,Vigo County
+47881,Staunton,Clay County
+47882,Sullivan,Sullivan County
+47884,Universal,Vermillion County
+47885,West Terre Haute,Vigo County
+47901,Lafayette,Tippecanoe County
+47902,Lafayette,Tippecanoe County
+47903,Lafayette,Tippecanoe County
+47904,Lafayette,Tippecanoe County
+47905,Lafayette,Tippecanoe County
+47906,West Lafayette,Tippecanoe County
+47907,West Lafayette,Tippecanoe County
+47909,Lafayette,Tippecanoe County
+47916,Alamo,Montgomery County
+47917,Ambia,Benton County
+47918,Attica,Fountain County
+47920,Battle Ground,Tippecanoe County
+47921,Boswell,Benton County
+47922,Brook,Newton County
+47923,Brookston,White County
+47924,Buck Creek,Tippecanoe County
+47925,Buffalo,White County
+47926,Burnettsville,White County
+47928,Cayuga,Vermillion County
+47929,Chalmers,White County
+47930,Clarks Hill,Tippecanoe County
+47932,Covington,Fountain County
+47933,Crawfordsville,Montgomery County
+47934,Crawfordsville,Montgomery County
+47935,Crawfordsville,Montgomery County
+47936,Crawfordsville,Montgomery County
+47937,Crawfordsville,Montgomery County
+47938,Crawfordsville,Montgomery County
+47939,Crawfordsville,Montgomery County
+47940,Darlington,Montgomery County
+47941,Dayton,Tippecanoe County
+47942,Earl Park,Benton County
+47943,Fair Oaks,Jasper County
+47944,Fowler,Benton County
+47946,Francesville,Pulaski County
+47948,Goodland,Newton County
+47949,Hillsboro,Fountain County
+47950,Idaville,White County
+47951,Kentland,Newton County
+47952,Kingman,Fountain County
+47954,Ladoga,Montgomery County
+47955,Linden,Montgomery County
+47957,Medaryville,Pulaski County
+47958,Mellott,Fountain County
+47959,Monon,White County
+47960,Monticello,White County
+47962,Montmorenci,Tippecanoe County
+47963,Morocco,Newton County
+47964,Mount Ayr,Newton County
+47965,New Market,Montgomery County
+47966,Newport,Vermillion County
+47967,New Richmond,Montgomery County
+47968,New Ross,Montgomery County
+47969,Newtown,Fountain County
+47970,Otterbein,Benton County
+47971,Oxford,Benton County
+47974,Perrysville,Vermillion County
+47975,Pine Village,Warren County
+47977,Remington,Jasper County
+47978,Rensselaer,Jasper County
+47980,Reynolds,White County
+47981,Romney,Tippecanoe County
+47982,State Line,Warren County
+47983,Stockwell,Tippecanoe County
+47984,Talbot,Benton County
+47986,Templeton,Benton County
+47987,Veedersburg,Fountain County
+47988,Wallace,Fountain County
+47989,Waveland,Montgomery County
+47990,Waynetown,Montgomery County
+47991,West Lebanon,Warren County
+47992,Westpoint,Tippecanoe County
+47993,Williamsport,Warren County
+47994,Wingate,Montgomery County
+47995,Wolcott,White County
+47996,West Lafayette,Tippecanoe County
+47997,Yeoman,Carroll County

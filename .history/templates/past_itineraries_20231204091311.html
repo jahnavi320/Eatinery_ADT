@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Past Itineraries</title>
+</head>
+<body>
+    <h1>Your Past Itineraries</h1>
+    <ul>
+        {% for itinerary in past_itineraries %}
+            <li>{{ itinerary.location }} (ID: {{ itinerary.location_id }})</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

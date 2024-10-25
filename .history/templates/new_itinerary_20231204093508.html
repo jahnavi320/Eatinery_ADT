@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Itinerary</title>
+</head>
+<body>
+    <h2>Create a New Itinerary</h2>
+    <form method="post" action="{{ url_for('new_itinerary') }}">
+        <label for="location">Enter Location:</label>
+        <input type="text" id="location" name="location" required>
+        <br>
+        <button type="submit">Create Itinerary</button>
+    </form>
+</body>
+</html>
